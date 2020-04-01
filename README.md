@@ -1,8 +1,6 @@
 # Markdown CSS
 
-This is a simple style with normalized defaults, it should work on anything from a desktop, to a phone.
-
-View the live preview here: http://simon.lc/sites/markdown/.
+A preview of the stylesheet can be found here: https://rnsavinelli.github.io/files/markdown/example.html
 
 ## Compilation using Pandoc
 
