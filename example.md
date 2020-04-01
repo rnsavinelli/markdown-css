@@ -1,41 +1,82 @@
----
-title: Markdown Template
----
+A First Level Header
+====================
 
-## Subsection
+A Second Level Header
+---------------------
 
-Aliquam voluptate aut animi ut et rerum omnis. Sint fuga eum laborum rerum et et natus.
-Non alias sequi quidem mollitia atque aliquam consequuntur sed.
+### A Third Level Header
 
-``` cpp 
-class Something
-{
-	public:
-		double A, B, C;
-		:
-};
+#### A Fourth Level Header
+
+##### A Fifth Level Header
+
+###### A Sixed Level Header
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sed dapibus mauris. Aliquam erat volutpat. 
+Morbi sit amet consectetur odio. Nulla quis suscipit nibh, eu gravida sapien. Aenean quis quam nunc.
+Quisque mollis sodales nisl, sed euismod quam pretium a. Vestibulum sem mauris, finibus quis interdum sed, volutpat sed sem.
+
+Cras id dui vehicula, bibendum odio vitae, gravida odio. Maecenas at sollicitudin nisi. Phasellus libero dolor, 
+efficitur id dui et, varius tincidunt lectus. Donec non nisl vitae lorem semper maximus. Proin interdum arcu sollicitudin nisi ultrices rutrum. 
+
+------------------------------------------------------------------------
+
+### Header 3
+
+> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
+> consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
+> Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+>
+> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
+> id sem consectetuer libero luctus adipiscing.
+>
+> This is an H2 in a blockquote
+> -----------------------------
+>
+> This is the first level of quoting.
+>
+> > This is nested blockquote.
+>
+> Back to the first level.
+
+Some of these words *are emphasized*.
+
+Use two asterisks for **strong emphasis**. Or, if you prefer, **use two
+underscores instead**.
+
++ Candy.
+
++ Gum.
+
++ Booze.
+
+    -   A list item.
+
+    -   Another item in the list.
+
+    -   This is a list item with two paragraphs. Lorem ipsum dolor sit amet,
+        consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
+
+        Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae,
+        risus. Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
+
+A code block:
+
+    <code goes here>
+
+Here is an example of AppleScript:
+
+```
+tell application "Foo"
+    beep
+end tell
 ```
 
-Dolore harum in suscipit ex ipsa voluptatibus. Eaque dolor qui architecto quis vel suscipit quam. 
-Eius enim sint quis.
+This is an [example link](http://example.com/).
 
-+ *Italics*
-+ **Bold**
+If you want your page to validate under XHTML 1.0 Strict, you\'ve got to
+put paragraph tags in your blockquotes:
 
-Quibusdam voluptatem magnam numquam et consequatur et iste voluptatibus.
-
-### A sub-subsection
-
-Sequi ipsam totam saepe eum eum odit. Consequuntur non magni quae tempora molestiae ullam veritatis. 
-Minima est voluptatem aut eos ea iusto. Sit iure a quas ullam maiores et dolorem. 
-
-> Format example A
-
-Quia voluptatem provident corporis sunt. Consequatur quod itaque assumenda quasi.
-
-1. ***Bold and Italics***
-2. `Format example B`
-
-Rem laboriosam unde voluptatem voluptas incidunt. Est repudiandae qui nostrum dolorem enim consequatur et cumque.
-Vero impedit velit ex voluptatem tempore. Sed aperiam necessitatibus iusto qui eos quia est. Sed consequatur eveniet quia.
-Unde est qui nobis magnam praesentium error.
+    <blockquote>
+        <p>For example.</p>
+    </blockquote>
