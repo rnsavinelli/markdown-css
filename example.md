@@ -64,12 +64,15 @@ A code block:
 
     <code goes here>
 
-Here is an example of AppleScript:
+Here is an example of C++ code:
 
-```
-tell application "Foo"
-    beep
-end tell
+``` cpp 
+class Something
+{
+	public:
+		double A, B, C;
+		:
+};
 ```
 
 This is an [example link](http://example.com/).
